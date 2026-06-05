@@ -1,7 +1,7 @@
 {
   "name": "ascii-skills",
   "version": "1.0.0",
-  "description": "Terminal ASCII art and visualization skills — banners, diagrams, charts, animations",
+  "description": "Terminal ASCII art and visualization skills",
   "author": {
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
@@ -22,6 +22,6 @@
     "./skills/ascii-table-renderer",
     "./skills/ascii-terminal-animation-pack",
     "./skills/ascii-text-art-library",
-    "./skills/cli-ascii-logo",
+    "./skills/cli-ascii-logo"
   ]
 }
